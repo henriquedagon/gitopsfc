@@ -1,3 +1,3 @@
 module webserver
 
-go 1.20.3
+go 1.20
