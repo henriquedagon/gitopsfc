@@ -8,4 +8,4 @@ resources:
 images:
 - name: goserver
   newName: bcdscrypto/gitopsfc
-  newTag: 3f02bff88816d1eb5e6329b6219730873b715b5e
+  newTag: b5ab780b3d03e64bfa43b3978e23d91dc1b1ab00
